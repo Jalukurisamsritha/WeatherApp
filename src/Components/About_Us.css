@@ -1,0 +1,38 @@
+.about-us-container {
+    background-image: url('https://w0.peakpx.com/wallpaper/323/21/HD-wallpaper-plain-white-abstract.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    min-height: 100vh;
+  }
+  
+  .about-us-content {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgb(77, 70, 70);
+  }
+  
+  .about-us-content h1,
+  .about-us-content h2,
+  .about-us-content h3 {
+    color: rgb(30, 14, 74);
+  }
+  
+  .about-us-content img {
+    width: 100%;
+  height: auto;
+  
+  }
+  .larger-image {
+    width: 100%;
+    max-width: 800px; 
+    padding:10px;
+    max-height: 800px; /* Adjust the value as needed */
+  }
+  
+  

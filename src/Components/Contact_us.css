@@ -1,0 +1,115 @@
+
+
+/* .contact-us-container {
+    padding: 20px;
+    min-height: 100vh;
+    background-image: url('C:\Users\jaluk\OneDrive\Desktop\React_project\my-app\src\Components\yY9.gif');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .title {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #070707;
+  }
+  
+  .add-content,
+  .Mail {
+    margin-top: 20px;
+    text-align: center;
+    color: #131212;
+  }
+  
+  .add-content i.fa-building,
+  .Mail i.fa-envelope {
+    display: inline-block;
+    width: 20px;
+    color: #070606;
+    margin-right: 10px;
+  }
+  
+  .add-content p {
+    margin: 0;
+  }
+  
+  .map {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .map iframe {
+    border: 0;
+  }
+  
+  
+  .container {
+    max-width: 800px;
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .contact-info i {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-info p {
+    margin: 0;
+  } */
+  .background-image {
+    background-image: url('C:\Users\jaluk\OneDrive\Desktop\React_project\my-app\src\Components\g1vA.gif');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .title {
+    text-align: center;
+  }
+  
+  .add-content {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .add-content .icon {
+    display: inline-block;
+    width: 20px;
+  }
+  
+  .add-content p {
+    margin: 0;
+  }
+  
+  .Mail {
+    margin-top: 10px;
+  }
+  
+  .Mail .icon {
+    display: inline-block;
+    width: 20px;
+  }
+  
+  .map {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .map iframe {
+    border: 0;
+  }
+  
+  

@@ -1,0 +1,62 @@
+.Detect {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f2f2f2;
+    background-image: url('C:\Users\jaluk\OneDrive\Desktop\React_project\my-app\src\Components\yY9.gif');
+    background-repeat: no-repeat;
+  background-size: cover;
+    padding: 20px;
+    
+  }
+
+  .upload-container {
+    text-align: center;
+    box-shadow: 0 0 20px #bac3c3;
+    padding:30px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+
+  .small-image {
+    max-width: 100%;
+    height: auto;
+    width:300px;
+    height:250px;
+    margin-top: 20px;
+  }
+  .Detect button[type="submit"] {
+    display: block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #176b87;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0e506b;
+  }
+  
+  h3 {
+    font-size: 20px;
+    color: #333;
+    margin-top: 20px;
+  }
+
+  @media (max-width: 768px) {
+    .Detect {
+      flex-direction: column;
+}
+}
